@@ -1,8 +1,8 @@
 name: Random Shit From The Internet
-style: A1
 favicon: null
 layout_spectrum: 0.8
 typography_spectrum: "0.5"
+style: A1
 title: Random Shit From The Internet
 cta:
   domain: null
@@ -18,11 +18,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - "#6c7080"
-    - "#ffa426"
-    - "#93b6dd"
-    - "#4d0100"
-    - "#f4ffff"
+    - "#a2d7bb"
+    - "#faefda"
+    - "#5f4d5f"
+    - "#d12164"
+    - "#c4517b"
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
