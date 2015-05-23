@@ -47,7 +47,7 @@ datePublished: "2015-05-02T17:26:00.000Z"
 app_links: []
 isBasedOnUrl: "http://www.businessinsider.com/photos-of-apple-first-employees-offices-2015-5"
 title: "These photos Apple's first employees showed us from the company's earliest days are absolutely wonderful"
-dateModified: "2015-05-22T18:11:15.421Z"
+dateModified: "2015-05-23T02:17:29.388Z"
 sourcePath: _posts/2015-05-02-these-photos-apples-first-employees-showed-us-from-the-comp.md
 published: true
 _context: "http://schema.org"
