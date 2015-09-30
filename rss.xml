@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Random Shit From The Internet]]></title>
+        <description><![CDATA[Random Shit From The Internet]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 30 Sep 2015 19:35:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://themaisonette.net/wp-content/uploads/2012/11/Architecture-1920x1080-pixels-wallpapers-tagged-architecture.jpg">]]></description>
+            <link>undefined79e9c050-1a37-4728-b35f-7f68b00176bc/index.html</link>
+            <guid isPermaLink="false">79e9c050-1a37-4728-b35f-7f68b00176bc</guid>
+            <pubDate>Wed, 30 Sep 2015 19:35:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
