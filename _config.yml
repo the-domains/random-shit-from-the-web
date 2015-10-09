@@ -1,20 +1,4 @@
-name: Random Shit From The Internet
-favicon: null
-layout_spectrum: 0.76848
-typography_spectrum: 0.20576
-title: Random Shit From The Internet
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#fffcad'
@@ -22,8 +6,13 @@ color:
     - '#9b609d'
     - '#d3b7a6'
     - '#ff00ff'
-  brandStrength: 0.25
+  brandStrength: 0
   lightness: 0.6875
-  saturation: 0.75
   rhythmicContrast: 0.75
+  saturation: 0.75
+cta: {}
+layout_spectrum: 0.76848
+name: Random Shit From The Internet
+opengraph: {}
 purpose: []
+typography_spectrum: 0.20576
