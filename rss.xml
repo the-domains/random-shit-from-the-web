@@ -1,12 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[Random Shit From The Internet]]></title>
         <description><![CDATA[Random Shit From The Internet]]></description>
         <link>https://thegrid.ai/random-shit-from-the-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 13 Oct 2015 17:59:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2015 16:09:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/random-shit-from-the-web/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[With Battle for Zendikar nearly Modern legal, what are some cards from Origins that surprised you? * /r/ModernMagic]]></title>
+            <description><![CDATA[<article><h1>With Battle for Zendikar nearly Modern legal, what are some cards from Origins that surprised you? * /r/ModernMagic</h1><p>Browsing through [this thread](https://www.reddit.com/r/ModernMagic/comments/3dxtuc/how_has_magic_origins_affected_modern_for_you/) I'm reminded...</p><img src="https://www.redditstatic.com/icon.png"></article>]]></description>
+            <link>https://www.reddit.com/r/ModernMagic/comments/3mui77/with_battle_for_zendikar_nearly_modern_legal_what/</link>
+            <guid isPermaLink="false">f1d8b41c-dd63-43e3-b5d0-28ebae5d1724</guid>
+            <pubDate>Fri, 30 Oct 2015 16:08:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Random thoughts about humanity]]></title>
             <description><![CDATA[<article><h1>Random thoughts about humanity</h1><img src="http://the-grid-user-content.s3-us-west-2.amazonaws.com/6aa8c119-8945-4d6a-8079-54a474559459.jpg"></article>]]></description>
