@@ -7,8 +7,8 @@ inLanguage: lt
 starred: false
 keywords: []
 description: "Browsing through [this thread](https://www.reddit.com/r/ModernMagic/comments/3dxtuc/how_has_magic_origins_affected_modern_for_you/) I'm reminded..."
-datePublished: '2015-11-21T13:07:05.431Z'
-dateModified: '2015-11-21T13:04:28.084Z'
+datePublished: '2015-12-02T17:49:00.884Z'
+dateModified: '2015-12-02T17:48:44.117Z'
 author: []
 related: []
 app_links: []
@@ -27,6 +27,4 @@ _type: MediaObject
 ---
 <article style=""><h1>With Battle for Zendikar nearly Modern legal&amp;comma; what are some cards from Origins that surprised you&amp;quest; &amp;midast; &amp;sol;r&amp;sol;ModernMagic</h1><p>Browsing through &amp;lsqb;this thread&amp;rsqb;&amp;lpar;https&amp;colon;&amp;sol;&amp;sol;www&amp;period;reddit&amp;period;com&amp;sol;r&amp;sol;ModernMagic&amp;sol;comments&amp;sol;3dxtuc&amp;sol;how&amp;lowbar;has&amp;lowbar;magic&amp;lowbar;origins&amp;lowbar;affected&amp;lowbar;modern&amp;lowbar;for&amp;lowbar;you&amp;sol;&amp;rpar; I'm reminded&amp;period;&amp;period;&amp;period;</p><img src="https://www.redditstatic.com/icon.png" /></article>
 
-test
-
-test2
+>
