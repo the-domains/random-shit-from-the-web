@@ -1,6 +1,6 @@
 name: Random Shit From The Internet
 favicon: null
-layout_spectrum: 0.21039
+layout_spectrum: 0.70622
 typography_spectrum: 0.30983
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#9b609d'
     - '#d3b7a6'
     - '#ff00ff'
-  brandStrength: 0.5
-  lightness: 1
-  saturation: 0.8125
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.3125
   rhythmicContrast: 0.25
 purpose: []
