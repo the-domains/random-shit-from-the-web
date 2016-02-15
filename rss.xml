@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Random Shit From The Internet]]></title>
-        <description><![CDATA[Random Shit From The Internet]]></description>
+        <title><![CDATA[Random shit from the web]]></title>
+        <description><![CDATA[Random shit from the web]]></description>
         <link>https://thegrid.ai/random-shit-from-the-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 16:09:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 16:55:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/random-shit-from-the-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Statisticians have determined the safest hideout for a zombie apocalypse]]></title>
+            <description><![CDATA[<article><h1>Statisticians have determined the safest hideout for a zombie apocalypse</h1><p>I have long had an obsession with the Zombie genre. So it is just natural to think about my own exit strategy in case of a pending "omega-day". The article mentioned that the best chance for survival is, to get out of the major cities and off to the country-side.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f66cf5ff9ca2fe14cfeebe11c0f230f1c1f7d3ae.jpg"></article>]]></description>
+            <link>http://www.sciencealert.com/statisticians-have-determined-the-safest-hideout-for-a-zombie-apocalypse</link>
+            <guid isPermaLink="false">405ecf95-4f36-4af4-9576-5ff8be780cbd</guid>
+            <pubDate>Mon, 15 Feb 2016 16:55:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A new typeface, designed by algorithms instead of by hand]]></title>
-            <description><![CDATA[<article><h1>A new typeface, designed by algorithms instead of by hand</h1><p>Methods of type design have shifted over the years - from moveable type printing presses to copper plate engraving to modern design software - but fonts are still largely created by hand. And with globally successful fonts containing nearly 600 characters in various languages, a single typeface with several weights and styles can take a year or more to design.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e910f4c7003b5c7bde8fef4a62d696ce4b2b0bdd.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>A new typeface, designed by algorithms instead of by hand</h1><p>Methods of type design have shifted over the years - from moveable type printing presses to copper plate engraving to modern design software - but fonts are still largely created by hand. And with globally successful fonts containing nearly 600 characters in various languages, a single typeface with several weights and styles can take a year or more to design.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4eed2c44e921e52eb8bf0260990e702ace699222.jpg"></article>]]></description>
             <link>https://thegrid.ai/random-shit-from-the-web/a-new-typeface-designed-by-algorithms-instead-of-by-hand/index.html</link>
             <guid isPermaLink="false">48067b7a-4195-41ce-a71d-514bdc53a5bd</guid>
             <pubDate>Mon, 01 Feb 2016 16:08:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How holograms can help NASA explore Mars]]></title>
-            <description><![CDATA[<article><h1>How holograms can help NASA explore Mars</h1><p>Ops Lab is in charge of building systems for controlling robots and spacecraft at NASA's Jet Propulsion. Some of their projects include controlling articulating arms, building immersive environments, and controlling robots like Robonaut 2 and Athlete using technology like the Oculus Rift and a Kinect sensor.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f90ad3337f30d0a76911553119b02baa825bd84.png"></article>]]></description>
+            <description><![CDATA[<article><h1>How holograms can help NASA explore Mars</h1><p>Ops Lab is in charge of building systems for controlling robots and spacecraft at NASA's Jet Propulsion. Some of their projects include controlling articulating arms, building immersive environments, and controlling robots like Robonaut 2 and Athlete using technology like the Oculus Rift and a Kinect sensor.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0c394e3b1c054bc9f2ceb25023e2ab38ce8b748.png"></article>]]></description>
             <link>https://thegrid.ai/random-shit-from-the-web/how-holograms-can-help-nasa-explore-mars/index.html</link>
             <guid isPermaLink="false">131e6224-f5c0-4aa3-80fa-36b938068714</guid>
             <pubDate>Mon, 01 Feb 2016 16:08:58 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.reddit.com/r/ModernMagic/comments/3mui77/with_battle_for_zendikar_nearly_modern_legal_what/</link>
             <guid isPermaLink="false">f1d8b41c-dd63-43e3-b5d0-28ebae5d1724</guid>
             <pubDate>Wed, 02 Dec 2015 17:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Random thoughts about humanity]]></title>
-            <description><![CDATA[<article><h1>Random thoughts about humanity</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8e38c56206c2472f79bce70105faa570cfab726.jpg"></article>]]></description>
-            <link>https://thegrid.ai/random-shit-from-the-web/random-thoughts-about-humanity/index.html</link>
-            <guid isPermaLink="false">be68b6d9-5f1b-4513-9569-b2296961010a</guid>
-            <pubDate>Sun, 11 Oct 2015 22:16:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
