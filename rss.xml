@@ -4,7 +4,7 @@
         <description><![CDATA[Random shit from the web]]></description>
         <link>https://thegrid.ai/random-shit-from-the-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 21:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 21:37:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/random-shit-from-the-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Statisticians have determined the safest hideout for a zombie apocalypse]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.sciencealert.com/statisticians-have-determined-the-safest-hideout-for-a-zombie-apocalypse</link>
             <guid isPermaLink="false">405ecf95-4f36-4af4-9576-5ff8be780cbd</guid>
             <pubDate>Mon, 15 Feb 2016 16:55:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://the-grid-user-content.s3-us-west-2.amazonaws.com/4244be63-676b-4418-bea8-c8f579e24890.png">]]></description>
+            <link>https://thegrid.ai/random-shit-from-the-web/8d17cc70-86d5-475a-b00e-d915b4793e0a/index.html</link>
+            <guid isPermaLink="false">8d17cc70-86d5-475a-b00e-d915b4793e0a</guid>
+            <pubDate>Tue, 12 Apr 2016 21:37:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://arstechnica.com/science/2015/04/apollo-13-the-mistakes-the-explosion-and-six-hours-of-live-saving-decisions/</link>
             <guid isPermaLink="false">99b127f4-8804-4081-8d0b-4d2d021f4a58</guid>
             <pubDate>Mon, 01 Feb 2016 16:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netflix]]></title>
-            <description><![CDATA[<article><h1>Netflix</h1><p>Netflix says it regrets striking a deal that exempted its videos from data caps imposed by an Internet service provider and will avoid such arrangements in the future. Netflix has criticized data caps on fixed broadband for years and said that when they are applied, they should be applied equally to all content.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfe0299477b0d2583b205aace05c3ad7ca7c0a09.png"></article>]]></description>
-            <link>http://arstechnica.com/business/2015/04/netflix-will-stop-asking-isps-to-exempt-its-videos-from-data-caps/</link>
-            <guid isPermaLink="false">0181224a-aa32-4cc5-b62f-bc8da0c5ecc3</guid>
-            <pubDate>Wed, 27 Jan 2016 16:33:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
