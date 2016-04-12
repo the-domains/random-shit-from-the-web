@@ -4,7 +4,7 @@
         <description><![CDATA[Random shit from the web]]></description>
         <link>https://thegrid.ai/random-shit-from-the-web/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 17:30:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 18:04:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/random-shit-from-the-web/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Statisticians have determined the safest hideout for a zombie apocalypse]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.sciencealert.com/statisticians-have-determined-the-safest-hideout-for-a-zombie-apocalypse</link>
             <guid isPermaLink="false">405ecf95-4f36-4af4-9576-5ff8be780cbd</guid>
             <pubDate>Mon, 15 Feb 2016 16:55:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Where has the Marlboro Country gone?]]></title>
+            <description><![CDATA[<article><h1>Where has the Marlboro Country gone?</h1><p>this is a test</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/035e13e0357c5ffd3630fa24692a3323c5686e05.jpg"></article>]]></description>
+            <link>https://thegrid.ai/random-shit-from-the-web/where-has-the-marlboro-country-gone/index.html</link>
+            <guid isPermaLink="false">5561aabb-1607-4f05-9a9f-e28234437979</guid>
+            <pubDate>Tue, 12 Apr 2016 18:04:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Life and Death in the App Store]]></title>
@@ -68,13 +75,6 @@
             <link>https://img0.etsystatic.com/004/0/5144618/il_fullxfull.389203190_pl41.jpg</link>
             <guid isPermaLink="false">6be5b0cc-e64c-4d98-b766-5957fa9e3cc4</guid>
             <pubDate>Sun, 24 Jan 2016 12:51:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://img0.gtsstatic.com/wallpapers/bffd563cc559e1cdbbe25ee591c7efea_large.jpeg">]]></description>
-            <link>https://thegrid.ai/random-shit-from-the-web/3f8dd815-c28e-4959-9112-32f780a619ba/index.html</link>
-            <guid isPermaLink="false">3f8dd815-c28e-4959-9112-32f780a619ba</guid>
-            <pubDate>Sat, 21 Nov 2015 13:18:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
