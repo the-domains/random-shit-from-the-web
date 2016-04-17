@@ -1,4 +1,6 @@
 typography_spectrum: 0.30983
+content_rating:
+  adult: true
 color:
   brandColors:
     - '#fffcad'
