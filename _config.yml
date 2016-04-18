@@ -21,11 +21,15 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: null
+  email: null
+  url: null
 name: Random shit from the web
 cta:
   domain: null
   bucket: null
   version: null
 favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e43047a-2523-4ab3-8737-ad52c27defb2.jpg'
-title: 'Just some stuff no one should ever care about!'
+title: Silliness Galore
 purpose: []
