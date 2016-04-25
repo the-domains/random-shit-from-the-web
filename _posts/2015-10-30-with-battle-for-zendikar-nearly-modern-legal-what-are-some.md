@@ -7,14 +7,14 @@ inLanguage: lt
 starred: false
 keywords: []
 description: "Browsing through [this thread](https://www.reddit.com/r/ModernMagic/comments/3dxtuc/how_has_magic_origins_affected_modern_for_you/) I'm reminded..."
-datePublished: '2015-12-02T17:49:00.884Z'
-dateModified: '2015-12-02T17:48:44.117Z'
-author: []
-related: []
-app_links: []
-title: 'With Battle for Zendikar nearly Modern legal, what are some cards from Origins that surprised you? * /r/ModernMagic'
+datePublished: '2016-04-25T10:23:05.027Z'
+dateModified: '2016-04-16T06:14:34.854Z'
 sourcePath: _posts/2015-10-30-with-battle-for-zendikar-nearly-modern-legal-what-are-some.md
+related: []
+author: []
 published: true
+title: 'With Battle for Zendikar nearly Modern legal, what are some cards from Origins that surprised you? * /r/ModernMagic'
+app_links: []
 authors: []
 publisher:
   name: reddit
@@ -27,4 +27,11 @@ _type: MediaObject
 ---
 <article style=""><h1>With Battle for Zendikar nearly Modern legal&amp;comma; what are some cards from Origins that surprised you&amp;quest; &amp;midast; &amp;sol;r&amp;sol;ModernMagic</h1><p>Browsing through &amp;lsqb;this thread&amp;rsqb;&amp;lpar;https&amp;colon;&amp;sol;&amp;sol;www&amp;period;reddit&amp;period;com&amp;sol;r&amp;sol;ModernMagic&amp;sol;comments&amp;sol;3dxtuc&amp;sol;how&amp;lowbar;has&amp;lowbar;magic&amp;lowbar;origins&amp;lowbar;affected&amp;lowbar;modern&amp;lowbar;for&amp;lowbar;you&amp;sol;&amp;rpar; I'm reminded&amp;period;&amp;period;&amp;period;</p><img src="https://www.redditstatic.com/icon.png" /></article>
 
->
+> this is merely a test
+> 
+> How do I get to write an actual body? This seems more like it keeps the style of the quote above...
+> 
+> Test this stuff.
+> 
+> * test
+> * test 2
