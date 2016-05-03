@@ -22,14 +22,14 @@ analytics:
   facebook: null
   twitter: null
 author:
-  name: null
-  email: null
-  url: null
+  name: Moritz Krog
+  email: moritzkrog@gmail.com
+  url: 'https://plus.google.com/+MoritzKrog'
 name: Random shit from the web
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7983e78-f181-4d66-a588-15ca98e56a7a.jpg'
 title: Silliness Galore
 purpose: []
