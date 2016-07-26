@@ -1,35 +1,48 @@
-typography_spectrum: 0.30983
-content_rating:
-  adult: false
+title: Silliness Galore
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.3125
+  brandStrength: 0
+  rhythmicContrast: 0.25
   brandColors:
     - '#fffcad'
     - '#6a1395'
     - '#9b609d'
     - '#d3b7a6'
     - '#ff00ff'
-  brandStrength: 0
   lightness: 0.5
-  saturation: 0.3125
-  rhythmicContrast: 0.25
-opengraph:
-  image: null
-  type: ''
-  appId: ''
-layout_spectrum: 0.70622
+cta:
+  bucket: null
+  version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7983e78-f181-4d66-a588-15ca98e56a7a.jpg
 author:
   name: Moritz Krog
   email: moritzkrog@gmail.com
   url: 'https://plus.google.com/+MoritzKrog'
 name: Random shit from the web
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7983e78-f181-4d66-a588-15ca98e56a7a.jpg'
-title: Silliness Galore
-purpose: []
+opengraph:
+  image: null
+  type: ''
+  appId: ''
+typography_spectrum: 0.6787521
+layout_spectrum: 0.5177066
+content_rating:
+  adult: false
